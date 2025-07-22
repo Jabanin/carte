@@ -1,0 +1,29 @@
+[
+  {
+    "nom": "Nintendo",
+    "adresse": "11-1 Hokotate-cho, Kyoto, Japon",
+    "lat": 34.9858,
+    "lng": 135.758,
+    "ca": "12.4 milliards USD",
+    "consoles": ["Switch", "Wii", "DS"],
+    "jeux": ["Zelda", "Mario", "Animal Crossing"]
+  },
+  {
+    "nom": "Sony Interactive Entertainment",
+    "adresse": "1-7-1 Konan, Minato-ku, Tokyo, Japon",
+    "lat": 35.6285,
+    "lng": 139.7401,
+    "ca": "22.7 milliards USD",
+    "consoles": ["PlayStation 5", "PlayStation 4"],
+    "jeux": ["God of War", "Horizon", "Uncharted"]
+  },
+  {
+    "nom": "Ubisoft",
+    "adresse": "28 Rue Armand Carrel, 93100 Montreuil, France",
+    "lat": 48.8566,
+    "lng": 2.4433,
+    "ca": "1.7 milliard EUR",
+    "consoles": ["Multiplateformes"],
+    "jeux": ["Assassin's Creed", "Far Cry", "Rayman"]
+  }
+]
